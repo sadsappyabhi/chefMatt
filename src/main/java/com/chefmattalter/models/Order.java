@@ -1,4 +1,4 @@
-package Models;
+package com.chefmattalter.models;
 
 import jakarta.persistence.*;
 import java.time.LocalDateTime;
