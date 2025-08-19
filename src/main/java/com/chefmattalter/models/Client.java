@@ -1,9 +1,6 @@
-package Models;
+package com.chefmattalter.models;
 
 import jakarta.persistence.*;
-import jakarta.persistence.criteria.Order;
-
-import java.util.List;
 import java.util.Set;
 
 @Entity
